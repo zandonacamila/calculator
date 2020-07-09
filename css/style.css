@@ -1,0 +1,21 @@
+.conta {
+	margin: 100px;
+	position: absolute;
+
+	top: 100px;
+	left: 200px;
+}
+
+#operadores {
+	position: absolute;
+	top: 150px;
+	left: 300px;
+	font-size: 30px;
+	
+}
+
+#igual {
+	position: absolute;
+	top: 200px;
+	left: 150px;
+}

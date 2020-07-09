@@ -1,0 +1,1 @@
+When I first started learning JS, my menthor oriented me to do this. Now I intend to improve this calc machine as I improve my JS skills.
